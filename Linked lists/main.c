@@ -1,5 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*
+    Task:
+    The keys of the list elements are integers. Perform a cyclic shift of elements
+    list by k positions to the right (k is natural and does not exceed the number of elements
+    list). If necessary, it is allowed to use one more list, others
+    data structures other than simple variables are not allowed
+*/
 
 typedef struct linked_list {
     int info;
