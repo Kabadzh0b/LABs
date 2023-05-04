@@ -1,0 +1,6 @@
+# ninja log v5
+1	155	7049120972746375	build.ninja	fb78eb7acb7e7d78
+1	61	7049120974136697	CMakeFiles/Graphs_graphic.dir/main.c.obj	f366a31cf3f9ec49
+63	140	7049120974888304	Graphs_graphic.exe	2163e6b6f12a11e1
+2	932	7049121225262485	CMakeFiles/Graphs_graphic.dir/main.c.obj	f366a31cf3f9ec49
+934	1057	7049121226471204	Graphs_graphic.exe	2163e6b6f12a11e1

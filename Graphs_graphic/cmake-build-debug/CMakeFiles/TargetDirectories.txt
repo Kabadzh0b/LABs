@@ -1,0 +1,3 @@
+C:/Users/Kabadzh0b/Desktop/programming/LABs/Graphs_graphic/cmake-build-debug/CMakeFiles/Graphs_graphic.dir
+C:/Users/Kabadzh0b/Desktop/programming/LABs/Graphs_graphic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kabadzh0b/Desktop/programming/LABs/Graphs_graphic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
