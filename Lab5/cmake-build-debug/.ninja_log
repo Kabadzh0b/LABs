@@ -1,0 +1,4 @@
+# ninja log v5
+1	166	7071600101771653	build.ninja	a2094a4b02bfd2bc
+3	962	7071417817468820	CMakeFiles/Lab5.dir/main.c.obj	73a3faabaeff93ec
+962	1073	7071417818556733	Lab5.exe	cf9a39f2609e2588
