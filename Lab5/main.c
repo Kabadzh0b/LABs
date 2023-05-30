@@ -551,8 +551,8 @@ void mainFunc(int option, HWND hWnd, HDC hdc){
     arrayY(N, ny);
 
     char** nn = symbolArray(N);
-    float** randMatrix = randMatrix(N);
-    float** roundedMatrix = mulmr(0.825, randMatrix, N);//Fill our matrix
+    float** randomedMatrix = randMatrix(N);
+    float** roundedMatrix = mulmr(0.825, randomedMatrix, N);//Fill our matrix
     float** symmetricMatrix = makeSymmetric(roundedMatrix, N);
 
     switch(option){
@@ -573,7 +573,7 @@ void mainFunc(int option, HWND hWnd, HDC hdc){
     free(nn);
     free(visited);
     freeMatrix(treeMatrix, N);
-    freeMatrix(randMatrix, N);
+    freeMatrix(randomedMatrix, N);
     freeMatrix(roundedMatrix, N);
     freeMatrix(symmetricMatrix, N);
 }
